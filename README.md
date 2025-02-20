@@ -21,7 +21,7 @@ News API - Fetches the latest news dynamically
 5. REACT_APP_NEWS_API_KEY=your_api_key_hereStart the development server: npm start
 
 # Screenshots
-
+![Image](https://github.com/user-attachments/assets/8e035900-8abc-4695-b8d9-7f92519787d3)
 
 # Live Demo
 
