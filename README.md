@@ -21,7 +21,7 @@ News API - Fetches the latest news dynamically
 # Live Demo
 
 # Screenshots
-![Image](https://github.com/user-attachments/assets/84c09133-1b68-4868-b467-cd8ce86b9525)
+![Image](https://github.com/user-attachments/assets/1d94b6cd-e0f7-41fb-9648-a0781cf21fe6)
 
 # Contributing
 Feel free to fork this repository and make improvements. Contributions are welcome!
